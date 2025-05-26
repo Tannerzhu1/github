@@ -1,8 +1,5 @@
-import gay
-
 def main():
     greet()
-    gay.yin()
 
     
     
